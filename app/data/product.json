@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone17",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1582589/12-l%20%282%29.jpg",
+    "price": 100000000,
+    "cate_id" : 3
+  },
+  {
+    "id": 2,
+    "name": "Tablet",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1582589/12-l%20%282%29.jpg",
+    "price": 100000000,
+    "cate_id" : 2
+  },
+  {
+    "id": 3,
+    "name": "Laptop Lenovo",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1582589/12-l%20%282%29.jpg",
+    "price": 100000000,
+    "cate_id" : 1
+  },
+  {
+    "id": 4,
+    "name": "Laptop Lenovo",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1582589/12-l%20%282%29.jpg",
+    "price": 100000000,
+    "cate_id" : 1
+  },
+  {
+    "id": 5,
+    "name": "Tablet",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1582589/12-l%20%282%29.jpg",
+    "price": 100000000,
+    "cate_id" : 2
+  },
+  {
+    "id": 6,
+    "name": "Iphone17",
+    "image": "https://cdnv2.tgdd.vn/mwg-static/common/News/1582589/12-l%20%282%29.jpg",
+    "price": 100000000,
+    "cate_id" : 3
+  }
+]
